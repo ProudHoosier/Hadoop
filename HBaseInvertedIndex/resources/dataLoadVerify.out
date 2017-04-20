@@ -1,0 +1,517 @@
+scanning table clueWeb09DataTable on details...
+------------00000100000------------
+URI : http://0-derrewyn-0.deviantart.com/
+content : 0-Derrewyn-0 on deviantART
+function vms_feature(feature) {
+                return (feature in {'':1});
+            }
+if (!window.deviantART) deviantART = {};deviantART.pageData={"user":{"symbol":"","username":""}}
+//@@fastcall
+DWait={a:[],o:{},ready:function(B,D){var C,A;if(!(B instanceof Array)){B=[B]}if(!(D instanceof Array))D=[this,D];if(typeof D[1]=="string")D[1]=new Function(D[1]);A={};for(C=0;C!=B.length;C++){A[B[C]]=true}DWait.a.push({m:A,c:D});DWait.fire()},fire:function(){var A,D,B,C;for(B in this.o){for(A=0;C=this.a[A];A++){if(C.m[B]){delete C.m[B];D=null;for(D in C.m){break}if(!D){C.c[1].apply(C.c[0],C.c[2]||[])}}}}},run:function(A){this.o[A]=true;this.fire()},l:[],readyLink:function(B,D,C){var A;if(window.event){window.event.cancelBubble=true}if (!(C instanceof Array))C=[D,C,[]];if(!this.o[B]){for(A=0;A!=this.l.length;A++){if(this.l[A]==D){return false}}this.l.push(D);D.style.cursor="wait";D.className+=" active";this.ready(B,[this,this.fixLink,[D]])}this.ready.call(D,B,C);if (D.blur)try{D.blur()}catch(e){}return false},linkCheck:function(A,B){return true},fixLink:function(A){A.style.cursor="pointer";A.className=A.className.replace(/\bactive\b/,"")},bind:function(C,B,A){return[C,B,A]}};
+// @@fastcall
+document.write('<style type="text/css">div.unscripted, span.unscripted {display:none} div.scripted, div.unlock div.unscripted {display:block} span.scripted, div.unlock span.unscripted {display:inline}</style>');
+// @@fastcall
+W=(window.innerHeight||document.documentElement.offsetHeight)-99;document.write('<style type="text/css">html body #output div.bubbleview{min-height:'+W+'px;_height:'+W+'}</style>')
+try { 
+            GS_googleAddAdSenseService("ca-pub-2005626271413567");
+            GS_googleEnableAllServices();
+          } catch (e) {
+          }
+try {
+            GA_googleAddAdSensePageAttr("google_hints","art schools, art supplies, art dealers, art galleries");
+GA_googleAddAdSensePageAttr("google_ad_channel","6796827591");
+GA_googleAddAdSensePageAttr("google_kw_type","broad");
+GA_googleAddAttr("LoggedIn","No");
+          } catch (e) {
+          }
+try {
+                        GA_googleAddSlot("ca-pub-2005626271413567", "atf_top_728x90_v6_userpage");
+                      } catch (e) {
+          }
+try { 
+            GA_googleUseSyncSRARendering();
+            GA_googleFetchAds();
+          } catch (e) {
+          }
+Username:
+ 
+Password:
+login
+ 
+  
+Not a member? Become a Deviant!
+Lost Password?
+Join Now
+Buy deviantWEAR
+Advertise Here
+[x]
+deviantART
+All Deviations
+Shop
+News
+Chat
+Forum
+Journals
+Shop
+T-shirts
+Collections
+Chat
+News
+Today
+Forum
+Help
+ 
+~
+0-Derrewyn-0
+Derrewyn  
+Profile
+Gallery
+Faves
+Journal
+Status: Member
+Varied Artist
+Female/Spain
+Invisible
+Deviant since
+Jun 6, 2008, 9:40 AM
+Sign up to follow this artist's work!
+30
+Deviations
+554
+Deviation Comments
+57
+Deviant Comments
+1,722
+Pageviews
+Gallery Stats
+Activity
+New year, new life
+Recent Deviations
+Tara for Lanier-Sama
+in
+Books/Novels
+4d 11h ago
+New year, new life
+in
+Oekaki
+4d 19h ago
+FF Xmas
+in
+Drawings
+on 12/27/08
+Rose Weasley
+in
+Fantasy
+on 12/26/08
+Browse Gallery
+Favourites
+Autumn Giver
+by ~
+Powerkitty
+Cursed
+by ~
+CilliansChainsaw
+Browse Favourites
+Recent Watchers
+~
+HeiwaChan
+~
+intotheshadows
+~
+Watching-The-World
+~
+X-x-EsTeLa-x-X
+~
+kashi12
+~
+zoipi
+~
+Tayaya
+!
+Yanini
+~
+link4000
+*
+RyoNeko48
+~
+Vocaloid-Fans
+~
+SalmaRU
+~
+Carrottop623
+~
+Shurara-fan-club
+~
+RubebeBW
+~
+TenienteSumimi
+~
+Lanier-Sama
+ 
+Primer Update del año <3
+Journal Entry:
+Wed Jan 7, 2009, 11:12 AM
+Puuues... tenía que actualizar esto como fuese, así que le robé este test a Lanier (
+) xDD
+SOY: Friki, insegura, tímida, empática, demasiado compasiva, pava... -,-
+QUIERO: A Lanii~
+TENGO: Pocos amigos...aunque algunos son muy especiales ^^
+DESEO: No sé ni lo que deseo ni lo que espero...
+ODIO: A una de las personas que me dio la vida
+EXTRAÑO: a gente T-T
+TEMO: ...que me odies...
+OIGO: Ahora mismo nada xD
+BUSCO: Tener una vida tranquila y ser lo más feliz posible
+ME PREGUNTO: ¿Cómo será mi vida en diez años?
+LAMENTO: que las cosas hayan terminado así
+AMO: Amo...er...a Aerith ^^U
+ANHELO: que vuelvas <3
+SIEMPRE: Me preocupo demasiado
+YO NO: consigo aclarar mis sentimientos
+BAILO: Esa palabra no entra en mi vocabulario O_O'
+CANTO: En la intimidad
+LLORO: Con cosas ficticias (como libros, mangas, anime...) Y por lo demás...sólo lloro cuando estoy desesperada
+ESCRIBO: No lo suficiente T-T
+GANO: Pocas veces xD (sobretodo al parchís online, hum)
+PIERDO: En el parchís online demasiadas veces ò.ó xDD
+CONFUNDO: a la hora de pensar si una persona se ha enfadado o no -,-
+NECESITO: oír tu voz
+DEBERÍA: aceptar la realidad y olvidar .-....
+EN LAS ULTIMAS 48 HORAS TU HAS:
+01.LLORADO: No
+02.COMPRADO ALGO: El pan xD
+03. ENFERMADO: No, y es raro xD
+04. CANTADO: Nop xD
+05. COMIDO: Sí he comido, es lo normal ¿no? xD
+06. SIDO BESADO: pues nunca O_O
+07. SENTIDO ESTUPIDA: Lo has clavado
+08. QUERIDO DECIRLE A ALGUIEN QUE LO AMABAS; PERO NO LO HICISTE: Joder...aciertas con demasiada frecuencia, me das meyo T-T
+09. CONOCIDO A ALGUIEN NUEVO: A Scar xDD Juaaaaaaaas
+10. MUDADO: No
+11. HABLADO CON UN/A EX: No tengo T-T
+12. EXTRAÑADO A UN/A EX: Una pregunta responde a la otra xD
+13. HABLADO CON ALGUIEN QUE TE GUSTABA: ...
+14. TENIDO UNA CHARLA SERIA: Pues no .-.
+15. EXTRAÑADO A ALGUIEN: Este test deprime xD
+16. ABRAZADO A ALGUIEN: Pues no T-T Y quiero hugs ya >o<
+17.PELEADO CON TUS PADRES:Sí xD
+18. SOÑADO CON ALGUIEN CON QUIEN NO PUEDES ESTAR: Si Naruto cuenta xDD
+PERSONAL:
+01. A QUIEN ADMIRAS?A mucha gente ^^
+03. TE HA GUSTADO ALGUIEN CON QUIEN NO TUVIERAS OPORTUNIDAD: Buff...
+06. LE HAS MENTIDO A TU/S MEJOR/ES AMIGO/S: Todos lo hacemos .-.
+07. HAS QUERIDO VENGARTE DE ALGUIEN QUE TE LASTIMÓ: Sí...
+08. PREFIERES SER EL QUE DEJA O AL QUE LO DEJAN: Pues...no lo sé, me dolería igual...
+10. QUIERES A ALGUIEN A QUIEN NO TIENES: No vuelvo a coger un est que haya hecho Lani antes xD
+11. ALGUNA VEZ TE HA GUSTADO TU MEJOR AMIGA/O: Pues como que no xD
+12. QUIERES CASARTE: Pues...no sé qué decirte T-T diría que no
+13. QUIERES NIÑOS: No creo que tenga nunca O_O' Me gustan mucho los niños y tal, pero buff...yo me entiendo
+14. CREES EN LA SíQUICA: Se escribe psíquico xD Y creo a medias
+16. CUÁL ES LA PARTE FAVORITA DE TU CUERPO: Mi pelo, supongo xD
+18. ERES FELIZ CONTIGO MISMA: Más o menos...
+19. ESTAS FELIZ CON TU VIDA: Para nada xD
+20. SI PUDIERAS CAMBIAR ALGO EN TU VIDA; QUE SERÍA?: >.> Pues… para empezar estaría buena <.< Y para terminar, sería millonaria. AHUAHAHAHA (Esta respuesta es de Lani xD, pero es que pienso igual)
+EN ESTE MOMENTO:
+[ROPA] Camiseta negra, pantalones negros xD
+[ESTADO DE ANIMO] ¿Desesperada? D:
+[MUSICA] Serenade-BSO Fruits Basket (Ritsukooo T-T)
+[COMIDA/ANTOJO] Me apetece atún xD
+[MAQUILLAJE] Pues...Casi que sólo para cosplays .-.
+[CABELLO] Suelto *-* Y demasiado largo ya, creo xD
+[MOLESTIA] Mi mano...está rara o-o'
+[OLOR] Sin olor ni sabor (?)
+[ARTISTA FAVORITO] Así en solitario...Ritsuko Okazaki, supongo xD
+[GRUPO FAVORITO] Celtas Cortos (pero tal como eran antes, ahora son mierdo XD)
+-----------------------------------------
+Amigos (friends):
+<--- Kogoro is buddy of all the world
+Miembro de(Member of):
+Im a fan of:
+No Comments
+|
+Previous Journal Entries
+Listening to:
+Serenade - Ritsuko Okazaki
+Reading:
+Brisingr
+Watching:
+Sé lo que hicisteis
+Playing:
+Golden Sun (¿Ya eres feliz, Alqui? xD)
+Eating:
+Nada -,-
+Drinking:
+Zumo D:
+Devious Information
+Email
+derrewyn_k66@hotmail.com
+Current Age:
+17
+Current Residence:
+Madrid, Spain
+Interests:
+Manga, anime, books, cosplay
+Favourite movie:
+The nightmare before Christmas,Ever after, The Lion King
+Favourite band or musician:
+Celtas Cortos
+Favourite genre of music:
+BSO, J-Music, Heavy, Rock, Celta
+Favourite artist:
+Natsuki Takaya
+Favourite poet or writer:
+JRR Tolkien
+Favourite style of art:
+Manga style
+Operating System:
+Windows XP
+Favourite game:
+Final Fantasy VII
+Favourite gaming platform:
+RPG
+Favourite cartoon character:
+L (Death Note)
+deviantART Notice
+[x]
+<a href="http://adcast.deviantart.com/delivery/ck.php?n=a885e60f" target="_blank"><img src="http://adcast.deviantart.com/delivery/avw.php?zoneid=33&amp;n=a885e60f" border="0" alt=""></a>
+Devious Comments
+~
+HeiwaChan
+1 day 13 hours ago
+Gracias por el watch y fav!!!
+Te dejo el mio en 3... 2... 1...
+--
+Moee
+---
+Don't click here
+[link]
+; I SAID, DON'T CLICK HERE
+[link]
+=
+Sunchildkate
+1 day 15 hours ago
+thank you for the watch, feel free to comment on my request journal, im giving away a few free chibis
+--
+$5 full coloured chibi commissions open
+[link]
+~
+0-Derrewyn-0
+2 days 12 hours ago
+You're welcome!! ^^
+=
+SUKIBLOG
+3 days 5 hours ago
+thank you for watch me
+~
+0-Derrewyn-0
+Jan 7, 2009, 3:09:48 PM
+You're very welcome xD I love your art
+*
+ReallyAngry
+Jan 7, 2009, 1:35:06 PM
+THENK U SOO MACH FR WATHC!"!!
+--
+RRAAAAAAAAAAAAAAAAAAAAAAHHH!!!!!!
+~
+Lanier-Sama
+Dec 12, 2008, 11:41:42 AM
+¿A que mola? *^* Es de Bleaaaaaaaaaaaaaaaaach x3
+--
+Tú me lo enseñaste todo, desde respirar hasta cómo amar
+Me diste valor para abrir mis alas, y hasta un motivo por el que luchar
+..Lástima que incluso los ángeles como tú algún día sean seres caídos..
+Ojalá pudieras alzar la vista.. y volverme a guíar.
+~
+0-Derrewyn-0
+Dec 12, 2008, 11:04:12 AM
+You're very welcome ^^
+~
+Crixyo
+Dec 12, 2008, 5:16:41 AM
+aww... that's so sweet! Thanks!
+--
+I believe in Jesus Christ my Savior. If you do too and aren't scared to admit it then copy and paste this in your signature.
+~
+0-Derrewyn-0
+Dec 11, 2008, 3:02:19 AM
+Oh, thanks to you for answering me
+I love your style ^^
+~
+Crixyo
+Dec 11, 2008, 12:04:55 AM
+Thanks a million for the watch, fave, and many lovely comments!
+--
+I believe in Jesus Christ my Savior. If you do too and aren't scared to admit it then copy and paste this in your signature.
+~
+0-Derrewyn-0
+Dec 2, 2008, 6:14:22 AM
+Thank you^^ My friend Lanier-sama (
+) did it for me
+~
+Sgt-Ronono
+Dec 1, 2008, 6:31:04 PM
+you have the yummiest and bestest icon ive ever seen....
+--
+DO NOT CLICK THIS!!!!!
+~
+0-Derrewyn-0
+Nov 28, 2008, 6:13:01 AM
+Igualmente ^^
+~
+X-x-EsTeLa-x-X
+Nov 28, 2008, 4:01:03 AM
+*o* Muchas gracias por el watch >w<!!
+--
+єïэ _X.x.EsTeLa.x.X_ єïэ      Aún busco la razón de mi existencia...
+~
+fuki93
+Nov 23, 2008, 10:59:18 AM
+You Got Tagged!
+RULES:
+1- You can hug the person who hugged you!
+2- You -MUST- hug 6 other people, at least!
+3- You should hug them in public! Paste it on their user page!
+4- Random hugs are perfectly okay! (and sweet)
+5- You should most definitely get started hugging right away!
+Send This To All Your Friends, And Me If I Am 1.
+If You Get 7 Back You Are Loved!
+1-3 you're a bad friend
+4-6 you're an ok friend
+7-9 you're a good friend
+10-& Up you're a great friend
+. . . . . . . . . . . . . . . . . .*
+. . . . . . . . . . .*. . . . . . . ** *
+. . . . .. . . . . .*** . . * . . *****
+. . . . . . . . . . .** . . **. . . . .*
+. . . . . . . . . . ***.*. . *. . . . .*
+. . . . . . . . . .****. . . .** . . . ******
+. . . . . . . . . ***** . . . .**.*. . . . . **
+. . . . . . . . .*****. . . . . **. . . . . . *.**
+. . . . . . . .*****. . . . . .*. . . . . . *
+. . . . . . . .******. . . . .*. . . . . *
+. . . . . . . .******* . . .*. . . . .*
+. . . . . . . . .*********. . . . . *
+. . . . . . . . . .******* . ***
+*******. . . . . . . . .**
+.*******. . . . . . . . *
+. ******. . . . . . . . * *
+. .***. . *. . . . . . .**
+. . . . . . .*. . . . . *
+. . . . .****.*. . . .*
+. . . *******. .*. .*
+. . .*******. . . *.
+. . .*****. . . . *
+. . .**. . . . . .*
+. . .*. . . . . . **.*
+. . . . . . . . . **
+. . . . . . . . .*
+. . . . . . . . .*
+. . . . . . . . .*
+. . . . . . . . *
+. . . . . . . . *
+. . . . . . . . *
+. . . . . . . . *
+. . . . . . . . *
+Send this rose to everyone you care about!
+~
+0-Derrewyn-0
+Nov 23, 2008, 9:54:36 AM
+Gracias ^^
+~
+0-Derrewyn-0
+Nov 23, 2008, 9:54:00 AM
+Thank you ^^ And thank you for the watch too!!
+~
+Tayaya
+Nov 22, 2008, 7:37:14 PM
+Your gallery is so cute >w<
+--
+ﾀﾔﾔ
+Read the following:
+ICU UC12? U8X I8X2. CU!!
+~
+link4000
+Nov 21, 2008, 2:27:44 PM
+Tu galería mola. Te watcheo.
+--
+Miembro de ~
+spanish-deviants
+Mi blog:
+[link]
+~
+0-Derrewyn-0
+Nov 19, 2008, 11:31:03 AM
+Te lo mereces ^^ Tus dibujos son geniales
+*
+Celsa
+Nov 19, 2008, 9:33:14 AM
+Muchas gracias por el watch
+~
+0-Derrewyn-0
+Nov 16, 2008, 3:06:38 PM
+You are welcome!! ^^
+=
+OhMyPocky
+Nov 16, 2008, 3:05:34 PM
+Thank you for watching me~♥
+--
+♫♪~Wherever she goes,music seems to linger behind her~♪♫
+My Best Friend
+~
+GemOfSorrow
+My Love
+~
+HorusLV
+~
+InfinitEDawN
+Nov 16, 2008, 12:11:19 PM
+gracias ^.^
+--
+::~ You made me laugh a lot, but you made me cry the double ~::
+Previous Page
+    
+1
+2
+3
+4
+    
+Next Page
+Sign up to leave a message for this deviant!
+if (self.GA_googleFillSlot) {
+                                GA_googleFillSlot("atf_top_728x90_v6_userpage");
+            }
+Join Now
+Buy deviantWEAR
+Advertise Here
+[x]
+Site Map
+Spotlight
+Browse
+Shop
+Collections
+Chat
+News
+Today
+Forum
+Help & FAQ
+Shop
+Shop
+T-shirts
+adCast
+Diversions
+Random Deviant
+Random Deviation
+Daily Deviations
+Wallpaper
+©2009 deviantART.  All rights reserved
+About Us
+|
+Contact Us
+|
+Help & FAQ
+Advertise
+|
+Services
+Etiquette
+|
+
